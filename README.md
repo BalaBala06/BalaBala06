@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Bala  
 
 ## 🚀 About Me  
-I'm an AI & Blockchain enthusiast. My focus is on decentralized AI, security, and futuristic tech innovations.  
+I'm an AI .  
 
 ### 🔥 Interests  
 - AI & Deep Learning 🤖  
